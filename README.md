@@ -11,7 +11,7 @@
 <p>
   <a href="mailto:awaisarain953@gmail.com"><img src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- Replace the # below with your portfolio URL -->
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-1f2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio-awais-black.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1f2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/Karachi,_Pakistan-1f2937?style=flat-square&logo=googlemaps&logoColor=white" alt="Karachi, Pakistan" />
 </p>
 
