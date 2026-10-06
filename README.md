@@ -1,76 +1,125 @@
-<h1 align="center">Senior Creative Developer & AI Architect | Next.js, React.js, TypeScript, CMS & AI Automation</h1>
+<div align="center">
 
-<p align="center">
-  <em>Passionate about building high-performance digital ecosystems, smooth animations, and AI-driven business workflows.</em>
-</p>
+<h2>Muhammad Awais</h2>
 
----
+<p>Senior Creative Developer & AI Architect</p>
 
-### 🚀 Overview & Work Guarantee
-* ⚡ **Work Guarantee:** Clean, maintainable & production-ready code[cite: 1]
-* ⚡ **Experience:** 6+ Years Experience | Delivered 100+ Projects for International Clients[cite: 3, 4]
-* ⚡ **Focus:** High-Performance Web Apps, Design-to-Development, SEO Optimization & Speed[cite: 3, 4]
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Major Programming & Core Languages:**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <sub>Next.js · React · TypeScript · WordPress · Shopify · Webflow · GoHighLevel · n8n</sub>
 </p>
 
-**Frontend Frameworks & Creative Libraries:**
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <a href="mailto:awaisarain953@gmail.com"><img src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- Replace the # below with your portfolio URL -->
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-1f2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Karachi,_Pakistan-1f2937?style=flat-square&logo=googlemaps&logoColor=white" alt="Karachi, Pakistan" />
 </p>
 
-**CMS & CRM Architecture:**
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoHighLevel-FF4F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-</p>
+</div>
 
-**AI & Workflow Automations:**
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-008080?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+<br />
 
----
+### About
 
-### 💼 Services Offered
-* **Full-Stack & Front-End Development:** Scalable, pixel-perfect Next.js and React.js web applications[cite: 3].
-* **Creative Web Animations:** GSAP and Framer Motion immersive interactions and scroll animations[cite: 3].
-* **Custom CMS Development:** Custom WordPress (Bricks, Elementor), Shopify themes, and Webflow builds[cite: 3, 4].
-* **AI & Process Automation:** Designing automated workflows via n8n, Zapier, and GoHighLevel CRM[cite: 3, 4].
-* **Speed & SEO Optimization:** Code optimization, performance enhancements, and Core Web Vitals fixes[cite: 3, 4].
+I build fast, well-animated websites and the automation that runs behind them. Over 6+ years I've delivered 100+ projects for international clients, mostly e-commerce and small-to-mid businesses that needed quicker pages, better search rankings, and higher conversion.
 
----
+My work usually covers the whole path from Figma to production: design, front-end, CMS/CRM setup, and the workflows that connect them.
 
-### 🏆 Key Achievements
-* Delivered **100+ projects** for international clients across modern web and CMS platforms[cite: 3, 4].
-* Built & launched **200+ WordPress websites** and **20+ Shopify stores** with custom logic[cite: 4].
-* Improved page load speeds up to **90%** and boosted organic search performance[cite: 3, 4].
-* Increased mobile conversion rates by up to **87%** through seamless design-to-development workflows[cite: 4].
+<br />
 
----
+### What I do
 
-### 📬 Connect With Me
-* **Email:** [awaisarain953@gmail.com](mailto:awaisarain953@gmail.com)[cite: 3]
-* **Location:** Karachi, Pakistan[cite: 3]
+- Web applications in Next.js, React, and TypeScript
+- Scroll and interaction animation with GSAP and Framer Motion
+- Custom WordPress (Elementor, Bricks), Shopify themes, and Webflow builds
+- Automation workflows with n8n, Zapier, and GoHighLevel
+- Speed, Core Web Vitals, and technical SEO fixes
+
+<br />
+
+### Tech stack
+
+<table>
+  <tr>
+    <td valign="top" width="150">Languages</td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/HTML5-1f2937?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS-1f2937?style=flat-square&logo=css&logoColor=663399" alt="CSS" />
+      <img src="https://img.shields.io/badge/PHP-1f2937?style=flat-square&logo=php&logoColor=8892BF" alt="PHP" />
+      <img src="https://img.shields.io/badge/Liquid-1f2937?style=flat-square&logo=shopify&logoColor=96BF48" alt="Liquid" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Front-end</td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-1f2937?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-1f2937?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Bootstrap-1f2937?style=flat-square&logo=bootstrap&logoColor=A78BFA" alt="Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Animation</td>
+    <td>
+      <img src="https://img.shields.io/badge/GSAP-1f2937?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
+      <img src="https://img.shields.io/badge/Framer_Motion-1f2937?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">CMS & CRM</td>
+    <td>
+      <img src="https://img.shields.io/badge/WordPress-1f2937?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+      <img src="https://img.shields.io/badge/Elementor-1f2937?style=flat-square&logo=elementor&logoColor=E2498A" alt="Elementor" />
+      <img src="https://img.shields.io/badge/Shopify-1f2937?style=flat-square&logo=shopify&logoColor=96BF48" alt="Shopify" />
+      <img src="https://img.shields.io/badge/Webflow-1f2937?style=flat-square&logo=webflow&logoColor=4C8DFF" alt="Webflow" />
+      <img src="https://img.shields.io/badge/GoHighLevel-1f2937?style=flat-square" alt="GoHighLevel" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Automation & AI</td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-1f2937?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n" />
+      <img src="https://img.shields.io/badge/Zapier-1f2937?style=flat-square&logo=zapier&logoColor=FF4F00" alt="Zapier" />
+      <img src="https://img.shields.io/badge/Prompt_Engineering-1f2937?style=flat-square" alt="Prompt Engineering" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Tools</td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-1f2937?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
+      <img src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/Google_Analytics-1f2937?style=flat-square&logo=googleanalytics&logoColor=E37400" alt="Google Analytics" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### Experience
+
+| Role | Company | Period |
+| :--- | :--- | :--- |
+| Website Developer & AI Architect | Avancera Solution | Dec 2025 – Present |
+| Website Developer | WeCreative | Nov 2023 – 2025 |
+| Web Developer (part-time) | Growth Modo | May 2022 – Sep 2023 |
+| Front-End Developer | Apps Alberta | Jul 2019 – Nov 2021 |
+
+<br />
+
+### Highlights
+
+- 100+ web and automation projects delivered across WordPress, Shopify, Webflow, and GoHighLevel
+- Page load speed improved by up to 90% on client builds, with bounce rate down 25%
+- Mobile conversion up 87% on a client redesign
+- Organic traffic up 45% through performance-focused development
+- 4.8/5 average client satisfaction across 43+ launches at WeCreative
+
+<br />
+
+### Contact
+
+Open to freelance projects and full-time roles.
+
+Email: [awaisarain953@gmail.com](mailto:awaisarain953@gmail.com)
