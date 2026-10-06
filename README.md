@@ -1,125 +1,137 @@
 <div align="center">
 
-<h2>Muhammad Awais</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,100:1e3a8a&text=Muhammad%20Awais&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=Senior%20Creative%20Developer%20%26%20AI%20Architect&descSize=18&descAlignY=57" alt="Muhammad Awais — Senior Creative Developer & AI Architect" width="100%" />
 
-<p>Senior Creative Developer & AI Architect</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Next.js+%2B+TypeScript+web+apps;GSAP+%26+Framer+Motion+animation;Figma+to+production%2C+end+to+end;AI+agents+and+n8n+automation" alt="What I do" />
 
-<p>
-  <sub>Next.js · React · TypeScript · WordPress · Shopify · Webflow · GoHighLevel · n8n</sub>
-</p>
+<br />
 
-<p>
-  <a href="mailto:awaisarain953@gmail.com"><img src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- Replace the # below with your portfolio URL -->
-  <a href="https://portfolio-awais-black.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1f2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://img.shields.io/badge/Karachi,_Pakistan-1f2937?style=flat-square&logo=googlemaps&logoColor=white" alt="Karachi, Pakistan" />
-</p>
+<a href="https://portfolio-awais-black.vercel.app/"><img height="32" src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:awaisarain953@gmail.com"><img height="32" src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+
+<br /><br />
+
+<img height="30" src="https://img.shields.io/badge/Experience-6%2B_Years-38bdf8?style=for-the-badge&labelColor=0f172a" alt="6+ years experience" />
+<img height="30" src="https://img.shields.io/badge/Projects-100%2B-38bdf8?style=for-the-badge&labelColor=0f172a" alt="100+ projects" />
+<img height="30" src="https://img.shields.io/badge/Based_in-Karachi-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Based in Karachi" />
 
 </div>
 
 <br />
 
-### About
+## About
 
-I build fast, well-animated websites and the automation that runs behind them. Over 6+ years I've delivered 100+ projects for international clients, mostly e-commerce and small-to-mid businesses that needed quicker pages, better search rankings, and higher conversion.
+I design and build websites that move well and load fast, then wire up the automation that runs behind them. Most of my work goes from a Figma file to a live product without a handoff in between: design, front-end, animation, CMS, and the workflows that connect it all.
 
-My work usually covers the whole path from Figma to production: design, front-end, CMS/CRM setup, and the workflows that connect them.
-
-<br />
-
-### What I do
-
-- Web applications in Next.js, React, and TypeScript
-- Scroll and interaction animation with GSAP and Framer Motion
-- Custom WordPress (Elementor, Bricks), Shopify themes, and Webflow builds
-- Automation workflows with n8n, Zapier, and GoHighLevel
-- Speed, Core Web Vitals, and technical SEO fixes
+Over 6+ years I've delivered 100+ projects for international clients in e-commerce, healthcare, real estate, and hospitality.
 
 <br />
 
-### Tech stack
+## What I build
 
-<table>
-  <tr>
-    <td valign="top" width="150">Languages</td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/HTML5-1f2937?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS-1f2937?style=flat-square&logo=css&logoColor=663399" alt="CSS" />
-      <img src="https://img.shields.io/badge/PHP-1f2937?style=flat-square&logo=php&logoColor=8892BF" alt="PHP" />
-      <img src="https://img.shields.io/badge/Liquid-1f2937?style=flat-square&logo=shopify&logoColor=96BF48" alt="Liquid" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Front-end</td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-1f2937?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-1f2937?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Bootstrap-1f2937?style=flat-square&logo=bootstrap&logoColor=A78BFA" alt="Bootstrap" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Animation</td>
-    <td>
-      <img src="https://img.shields.io/badge/GSAP-1f2937?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
-      <img src="https://img.shields.io/badge/Framer_Motion-1f2937?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">CMS & CRM</td>
-    <td>
-      <img src="https://img.shields.io/badge/WordPress-1f2937?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-      <img src="https://img.shields.io/badge/Elementor-1f2937?style=flat-square&logo=elementor&logoColor=E2498A" alt="Elementor" />
-      <img src="https://img.shields.io/badge/Shopify-1f2937?style=flat-square&logo=shopify&logoColor=96BF48" alt="Shopify" />
-      <img src="https://img.shields.io/badge/Webflow-1f2937?style=flat-square&logo=webflow&logoColor=4C8DFF" alt="Webflow" />
-      <img src="https://img.shields.io/badge/GoHighLevel-1f2937?style=flat-square" alt="GoHighLevel" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Automation & AI</td>
-    <td>
-      <img src="https://img.shields.io/badge/n8n-1f2937?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n" />
-      <img src="https://img.shields.io/badge/Zapier-1f2937?style=flat-square&logo=zapier&logoColor=FF4F00" alt="Zapier" />
-      <img src="https://img.shields.io/badge/Prompt_Engineering-1f2937?style=flat-square" alt="Prompt Engineering" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Tools</td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-1f2937?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
-      <img src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-      <img src="https://img.shields.io/badge/Google_Analytics-1f2937?style=flat-square&logo=googleanalytics&logoColor=E37400" alt="Google Analytics" />
-    </td>
-  </tr>
-</table>
+**Creative front-end** — Next.js and TypeScript applications with GSAP and Framer Motion: scroll-driven storytelling, page transitions, and micro-interactions that stay smooth on mobile.
+
+**Design to development** — animated components and prototypes in Figma, built exactly as designed, with no separate UI/UX team needed.
+
+**E-commerce and CMS** — custom Shopify Liquid themes, WordPress builds, Webflow and Framer sites, tuned for speed and conversion.
+
+**AI and automation** — n8n and Zapier workflows, GoHighLevel CRM pipelines, AI support and voice agents, and RAG systems that connect business data to LLMs.
 
 <br />
 
-### Experience
+## Stack
 
-| Role | Company | Period |
-| :--- | :--- | :--- |
-| Website Developer & AI Architect | Avancera Solution | Dec 2025 – Present |
-| Website Developer | WeCreative | Nov 2023 – 2025 |
-| Web Developer (part-time) | Growth Modo | May 2022 – Sep 2023 |
-| Front-End Developer | Apps Alberta | Jul 2019 – Nov 2021 |
+<div align="center">
+
+<sub>CREATIVE DEVELOPMENT</sub>
 
 <br />
 
-### Highlights
+<img height="34" src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img height="34" src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img height="34" src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img height="34" src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
 
-- 100+ web and automation projects delivered across WordPress, Shopify, Webflow, and GoHighLevel
-- Page load speed improved by up to 90% on client builds, with bounce rate down 25%
-- Mobile conversion up 87% on a client redesign
-- Organic traffic up 45% through performance-focused development
-- 4.8/5 average client satisfaction across 43+ launches at WeCreative
+<br /><br />
+
+<sub>MOTION AND DESIGN</sub>
 
 <br />
 
-### Contact
+<img height="34" src="https://img.shields.io/badge/GSAP-0f172a?style=for-the-badge&logo=gsap&logoColor=88CE02" alt="GSAP" />
+<img height="34" src="https://img.shields.io/badge/Framer_Motion-0f172a?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+<img height="34" src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+<img height="34" src="https://img.shields.io/badge/Framer-0f172a?style=for-the-badge&logo=framer&logoColor=0099FF" alt="Framer" />
+
+<br /><br />
+
+<sub>CMS, E-COMMERCE AND CRM</sub>
+
+<br />
+
+<img height="34" src="https://img.shields.io/badge/Shopify-0f172a?style=for-the-badge&logo=shopify&logoColor=96BF48" alt="Shopify" />
+<img height="34" src="https://img.shields.io/badge/WordPress-0f172a?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img height="34" src="https://img.shields.io/badge/Webflow-0f172a?style=for-the-badge&logo=webflow&logoColor=4C8DFF" alt="Webflow" />
+<img height="34" src="https://img.shields.io/badge/GoHighLevel-0f172a?style=for-the-badge" alt="GoHighLevel" />
+
+<br /><br />
+
+<sub>AI AND AUTOMATION</sub>
+
+<br />
+
+<img height="34" src="https://img.shields.io/badge/n8n-0f172a?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+<img height="34" src="https://img.shields.io/badge/Zapier-0f172a?style=for-the-badge&logo=zapier&logoColor=FF4F00" alt="Zapier" />
+<img height="34" src="https://img.shields.io/badge/AI_Agents-0f172a?style=for-the-badge" alt="AI Agents" />
+<img height="34" src="https://img.shields.io/badge/RAG-0f172a?style=for-the-badge" alt="RAG" />
+
+</div>
+
+<br />
+
+## Selected work
+
+**[Flyers Cocktail Co.](https://portfolio-awais-black.vercel.app/work/flyers-cocktail-co)** — Shopify store for an award-winning CBD cocktail brand, built with Tailwind CSS, custom Alpine.js interactions, and Klaviyo.
+
+**[Bite Toothpaste Bits](https://portfolio-awais-black.vercel.app/work/bite-toothpaste-bits)** — eco-friendly oral care store on Shopify with React and Preact components and Rebuy personalization.
+
+**[Tokyo Headspa](https://portfolio-awais-black.vercel.app/work/tokyo-headspa)** — Japanese head spa site built with Remix and Radix UI, with Lenis smooth scrolling.
+
+<a href="https://portfolio-awais-black.vercel.app/work">View all projects →</a>
+
+<br />
+
+## Experience
+
+**Website Developer & AI Architect**, Avancera Solution<br />
+<sub>Dec 2025 – Present</sub>
+
+**Website Developer**, WeCreative<br />
+<sub>Nov 2023 – 2025</sub>
+
+**Web Developer**, Growth Modo<br />
+<sub>May 2022 – Sep 2023 · Part-time</sub>
+
+**Front-End Developer**, Apps Alberta<br />
+<sub>Jul 2019 – Nov 2021</sub>
+
+<br />
+
+## Results
+
+- Page load speed improved by up to **90%** on client builds, with bounce rate down 25%
+- Mobile conversion up **87%** on a client redesign
+- Organic traffic up **45%** through performance-focused development
+- **4.8/5** average client satisfaction across 43+ launches at WeCreative
+
+<br />
+
+<div align="center">
 
 Open to freelance projects and full-time roles.
 
-Email: [awaisarain953@gmail.com](mailto:awaisarain953@gmail.com)
+<a href="https://portfolio-awais-black.vercel.app/contact"><img height="34" src="https://img.shields.io/badge/Let's_talk-38bdf8?style=for-the-badge&logoColor=0f172a" alt="Let's talk" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0f172a,100:1e3a8a" alt="" width="100%" />
+
+</div>
